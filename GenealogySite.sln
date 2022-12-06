@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenealogySite", "GenealogySite\GenealogySite.csproj", "{A49FE007-DC58-4A80-B035-913209A39471}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A49FE007-DC58-4A80-B035-913209A39471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49FE007-DC58-4A80-B035-913209A39471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49FE007-DC58-4A80-B035-913209A39471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49FE007-DC58-4A80-B035-913209A39471}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9D0629D-2DDA-478E-84AB-19BCB01AD312}
+	EndGlobalSection
+EndGlobal
