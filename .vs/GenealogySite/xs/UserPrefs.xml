@@ -4,15 +4,34 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.GenealogySite PreferredExecutionTarget="/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.GenealogySite PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="GenealogySite/Models/Person.cs">
+    <Files>
+      <File FileName="GenealogySite/Models/Person.cs" Line="30" Column="77" />
+      <File FileName="GenealogySite/Program.cs" Line="1" Column="1" />
+      <File FileName="GenealogySite/appsettings.json" Line="12" Column="2" />
+      <File FileName="GenealogySite/GenealogySiteContext-faa2f51e-3f28-4dbb-8733-7f18074c5450.db" Line="35" Column="4096" />
+      <File FileName="GenealogySite/Views/Shared/_Layout.cshtml" Line="29" Column="112" />
+      <File FileName="GenealogySite/Views/People/Create.cshtml" Line="34" Column="19" />
+      <File FileName="GenealogySite/Views/Home/Index.cshtml" Line="10" Column="1" />
+      <File FileName="GenealogySite/Data/GenealogySiteContext.cs" Line="10" Column="16" />
+      <File FileName="GenealogySite/Controllers/PeopleController.cs" Line="142" Column="36" />
+      <File FileName="GenealogySite/Views/People/Details.cshtml" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="GenealogySite" expanded="True">
             <Node name="GenealogySite" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="People" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>

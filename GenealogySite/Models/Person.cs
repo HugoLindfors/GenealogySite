@@ -1,5 +1,9 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.AspNetCore.Mvc;
+
+// dotnet-aspnet-codegenerator controller -name PeopleController -m Person -dc GenealogySiteContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries -sqlite -f
 
 namespace GenealogySite.Models
 {
@@ -39,13 +43,13 @@ namespace GenealogySite.Models
         [DataType(DataType.Date)]
         public DateTime? DateOfDecease { get; set; }
 
-        // Parental / Ancesteral Relations
-        [Display(Name = "Barn")]
-        public Person[]? Child { get; set; }
+        // Parental Relations
+        public List<Person>? Parents { get; set; }
+
+        // Ancestral Relations
+        public List<Person>? Children { get; set; }
 
         // Partnerships
-        [Display(Name = "Partners")]
-        public Person[]? Partner { get; set; }
-
+        public List<Person>? Partners { get; set; }
     }
 }
