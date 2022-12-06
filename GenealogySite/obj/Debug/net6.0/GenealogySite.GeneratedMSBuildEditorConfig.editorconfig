@@ -23,6 +23,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/hugo.lindfors3/Projects/GenealogySite/GenealogySite/Views/People/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVvcGxlL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hugo.lindfors3/Projects/GenealogySite/GenealogySite/Views/People/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVvcGxlL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hugo.lindfors3/Projects/GenealogySite/GenealogySite/Views/People/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVvcGxlL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hugo.lindfors3/Projects/GenealogySite/GenealogySite/Views/People/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVvcGxlL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hugo.lindfors3/Projects/GenealogySite/GenealogySite/Views/People/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVvcGxlL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/hugo.lindfors3/Projects/GenealogySite/GenealogySite/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
