@@ -16348,6 +16348,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/hugo.lindfors3/Projects/GenealogySite/GenealogySite/Views/Home/Graph.cshtml",
+      "TargetPath": "Views\\Home\\Graph.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/hugo.lindfors3/Projects/GenealogySite/GenealogySite/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
