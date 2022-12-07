@@ -16333,8 +16333,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/hugo.lindfors3/Projects/GenealogySite/GenealogySite/Views/Relations/Index.cshtml",
+      "TargetPath": "Views\\Relations\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/hugo.lindfors3/Projects/GenealogySite/GenealogySite/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/hugo.lindfors3/Projects/GenealogySite/GenealogySite/Views/Relations/Delete.cshtml",
+      "TargetPath": "Views\\Relations\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16348,8 +16358,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/hugo.lindfors3/Projects/GenealogySite/GenealogySite/Views/Relations/Details.cshtml",
+      "TargetPath": "Views\\Relations\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/hugo.lindfors3/Projects/GenealogySite/GenealogySite/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/hugo.lindfors3/Projects/GenealogySite/GenealogySite/Views/Relations/Edit.cshtml",
+      "TargetPath": "Views\\Relations\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/hugo.lindfors3/Projects/GenealogySite/GenealogySite/Views/Relations/Create.cshtml",
+      "TargetPath": "Views\\Relations\\Create.cshtml",
       "FileKind": "mvc"
     },
     {

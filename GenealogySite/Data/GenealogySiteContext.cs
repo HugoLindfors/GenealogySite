@@ -13,4 +13,6 @@ using GenealogySite.Models;
         }
 
         public DbSet<GenealogySite.Models.Person> Person { get; set; }
+
+        public DbSet<GenealogySite.Models.Relation> Relation { get; set; }
     }

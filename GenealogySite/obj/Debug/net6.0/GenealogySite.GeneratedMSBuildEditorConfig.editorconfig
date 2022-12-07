@@ -43,6 +43,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVvcGxlL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/hugo.lindfors3/Projects/GenealogySite/GenealogySite/Views/Relations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVsYXRpb25zL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hugo.lindfors3/Projects/GenealogySite/GenealogySite/Views/Relations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVsYXRpb25zL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hugo.lindfors3/Projects/GenealogySite/GenealogySite/Views/Relations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVsYXRpb25zL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hugo.lindfors3/Projects/GenealogySite/GenealogySite/Views/Relations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVsYXRpb25zL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hugo.lindfors3/Projects/GenealogySite/GenealogySite/Views/Relations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVsYXRpb25zL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/hugo.lindfors3/Projects/GenealogySite/GenealogySite/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
