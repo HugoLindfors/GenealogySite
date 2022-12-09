@@ -1,16 +1,21 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using GenealogySite.Models;
+using Microsoft.EntityFrameworkCore;
+using System;
 
 namespace GenealogySite.Controllers;
 
 public class HomeController : Controller
 {
+    private readonly GenealogySiteContext _context;
+
     private readonly ILogger<HomeController> _logger;
 
-    public HomeController(ILogger<HomeController> logger)
+    public HomeController(ILogger<HomeController> logger, GenealogySiteContext context)
     {
         _logger = logger;
+        _context = context;
     }
 
     public IActionResult Index()
@@ -23,9 +28,9 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult Graph()
+    public async Task<IActionResult> Graph()
     {
-        return View();
+        return View(await _context.Person.ToListAsync());
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

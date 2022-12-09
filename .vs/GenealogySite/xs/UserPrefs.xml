@@ -1,27 +1,22 @@
 ﻿<Properties StartupConfiguration="{A49FE007-DC58-4A80-B035-913209A39471}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.GenealogySite PreferredExecutionTarget="/Applications/Safari.app" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="GenealogySite/Views/Relations/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GenealogySite/Program.cs">
     <Files>
-      <File FileName="GenealogySite/Models/Person.cs" Line="10" Column="18" />
-      <File FileName="GenealogySite/Program.cs" Line="1" Column="1" />
-      <File FileName="GenealogySite/appsettings.json" Line="12" Column="2" />
-      <File FileName="GenealogySite/Models/Relation.cs" Line="7" Column="1" />
-      <File FileName="GenealogySite/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="GenealogySite/Views/Home/Graph.cshtml" Line="41" Column="13" />
       <File FileName="GenealogySite/Views/Relations/Create.cshtml" Line="1" Column="1" />
-      <File FileName="GenealogySite/Views/Relations/Index.cshtml" Line="1" Column="1" />
-      <File FileName="GenealogySite/Views/Home/Index.cshtml" Line="1" Column="1" />
-      <File FileName="GenealogySite/Views/Shared/_Layout.cshtml" Line="29" Column="94" />
-      <File FileName="GenealogySite/Views/Home/Graph.cshtml" Line="10" Column="32" />
-      <File FileName="GenealogySite/Views/People/Index.cshtml" Line="1" Column="1" />
-      <File FileName="GenealogySite/Controllers/HomeController.cs" Line="38" Column="1" />
+      <File FileName="GenealogySite/Views/Relations/Delete.cshtml" Line="1" Column="1" />
+      <File FileName="GenealogySite/Views/Relations/Index.cshtml" Line="1" Column="36" />
       <File FileName="GenealogySite/Data/GenealogySiteContext.cs" Line="1" Column="1" />
-      <File FileName="GenealogySite/Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="GenealogySite/Migrations/20221207095246_InitialCreate2.Designer.cs" Line="1" Column="1" />
+      <File FileName="GenealogySite/Migrations/20221207095246_InitialCreate2.cs" Line="1" Column="1" />
+      <File FileName="GenealogySite/Migrations/20221206100519_InitialCreate.cs" Line="11" Column="10" />
+      <File FileName="GenealogySite/Migrations/20221207095919_InitialCreate3.cs" Line="1" Column="1" />
+      <File FileName="GenealogySite/Migrations/GenealogySiteContextModelSnapshot.cs" Line="50" Column="43" />
+      <File FileName="GenealogySite/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -30,15 +25,15 @@
             <Node name="GenealogySite" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Home" expanded="True" />
                 <Node name="People" expanded="True" />
-                <Node name="Relations" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
-                </Node>
+                <Node name="Relations" expanded="True" />
                 <Node name="Shared" expanded="True" />
               </Node>
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -48,4 +43,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GenealogySite PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
 </Properties>
