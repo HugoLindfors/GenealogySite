@@ -4,12 +4,12 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="GenealogySite/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GenealogySite/Views/Home/Graph.cshtml">
     <Files>
-      <File FileName="GenealogySite/Views/Home/Graph.cshtml" Line="41" Column="13" />
+      <File FileName="GenealogySite/Views/Home/Graph.cshtml" Line="64" Column="30" />
       <File FileName="GenealogySite/Views/Relations/Create.cshtml" Line="1" Column="1" />
       <File FileName="GenealogySite/Views/Relations/Delete.cshtml" Line="1" Column="1" />
-      <File FileName="GenealogySite/Views/Relations/Index.cshtml" Line="1" Column="36" />
+      <File FileName="GenealogySite/Views/Relations/Index.cshtml" Line="1" Column="8" />
       <File FileName="GenealogySite/Data/GenealogySiteContext.cs" Line="1" Column="1" />
       <File FileName="GenealogySite/Migrations/20221207095246_InitialCreate2.Designer.cs" Line="1" Column="1" />
       <File FileName="GenealogySite/Migrations/20221207095246_InitialCreate2.cs" Line="1" Column="1" />
@@ -17,6 +17,11 @@
       <File FileName="GenealogySite/Migrations/20221207095919_InitialCreate3.cs" Line="1" Column="1" />
       <File FileName="GenealogySite/Migrations/GenealogySiteContextModelSnapshot.cs" Line="50" Column="43" />
       <File FileName="GenealogySite/Program.cs" Line="1" Column="1" />
+      <File FileName="GenealogySite/Views/People/Index.cshtml" Line="1" Column="1" />
+      <File FileName="GenealogySite/Controllers/PeopleController.cs" Line="16" Column="53" />
+      <File FileName="GenealogySite/Controllers/HomeController.cs" Line="22" Column="6" />
+      <File FileName="GenealogySite/Models/Relation.cs" Line="1" Column="1" />
+      <File FileName="GenealogySite/Models/ViewModel.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -33,7 +38,9 @@
                 <Node name="Relations" expanded="True" />
                 <Node name="Shared" expanded="True" />
               </Node>
-              <Node name="Program.cs" selected="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="lib" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
